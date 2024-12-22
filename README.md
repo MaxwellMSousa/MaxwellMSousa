@@ -29,7 +29,6 @@ When I'm not developing, I enjoy:
 - 🎨 Creating art and enhancing my creative thinking
 
 ## 📫 How to Reach Me
-Let’s collaborate, share ideas, or chat about mobile development!
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/maxsksr)  
 [![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/MaxwellMSousa)  
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:maxwellmaciel@gmail.com)
